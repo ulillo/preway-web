@@ -1,0 +1,61 @@
+ .ulillo-about-who_we_are {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: left;
+  color:#ebebeb;
+}
+
+.ulillo-about {
+    margin: 10px 0px;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 700;
+    color:#ebebeb;
+}
+
+.ulillo-terms {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+  color:#ebebeb;
+
+}
+
+.ulillo-our-process {
+  margin: 0px 0px 10px;
+
+  color: #fff;
+  font-size: 20px;
+  line-height: 3px;
+  font-weight: 900;
+  text-align: center;
+
+}
+
+.ulillo-processing-letras-iniciales {
+  color: #939292;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+
+  }
+
+.ulillo-processing-letras-iniciales2 {
+  color: #727272;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+
+    }
+
+
